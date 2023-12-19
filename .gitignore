@@ -2,3 +2,4 @@
 transformers
 pytorch
 node_modules
+__pycache__
